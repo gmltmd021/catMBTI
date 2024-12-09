@@ -22,7 +22,7 @@ const Home = () => {
           <img src={PangImage} className="rounded-circle" width={350} height={350}></img>
         </LogoImage>
         <Desc>MBTI를 기반으로 하는 나랑 잘맞는 고양이 찾기!</Desc>
-        <Button style={{ fontFamily: "심경하체" }} onClick={handleClickButton}>테스트 시작하기</Button> 
+        <Button style={{ fontFamily: "심경하체" }} onClick={handleClickButton}>테스트 시작하기</Button> bootstrap은 작성방법
       </Contents>
     </Wrapper>
   )
